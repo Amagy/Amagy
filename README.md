@@ -9,6 +9,5 @@
 
 - ✨ **I like to code programs**
 - 🚩 **I play CTF [Capture the flag]**.
-- 🚩 **I play KOTH [King Of The Hill]**.
 - 👨💻 **I am currently a student**.
 - 🎲 **fact: Keyboard shortcuts are my best friends**.
