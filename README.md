@@ -38,6 +38,6 @@
 
 # 👌**Hobbies :**
 
-<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/4ut4k.png" alt="TryHackMe">
+<img align="light" src="https://tryhackme-badges.s3.amazonaws.com/4ut4k.png" alt="TryHackMe">
 
 
