@@ -31,3 +31,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=Amagy&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amagy&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amagy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Amagy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# 👌**Hobbies :**
+
+<img align="right" src="https://tryhackme-badges.s3.amazonaws.com/4ut4k.png" alt="TryHackMe">
+
+
