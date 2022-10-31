@@ -1,16 +1,14 @@
 ### Hi 👋, I'm Amagy
 
-<!--
-**Amagy/Amagy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">I hate IT, no I'm kidding 😅, computer science is my life ❤️</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🙋‍♂️ **Whoami**
+
+- ✨ **I like to code programs**
+- 🚩 **I play CTF [Capture the flag]**.
+- 🚩 **I play KOTH [King Of The Hill]**.
+- 👨💻 **I am currently a student**.
+- 🎲 **fact: Keyboard shortcuts are my best friends**.
